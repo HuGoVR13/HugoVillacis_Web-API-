@@ -20,7 +20,19 @@ Para obtener un libro por su ID, se accede a través del punto final GET /books/
 Para crear un nuevo libro, se usa el punto final POST /books, permitiendo agregar libros a la base de datos simulada.
 
 
+
+
+PRUEBA EN POSTMAN:
+
+
+![image](https://github.com/HuGoVR13/HugoVillacis_Web-API-/assets/99736512/e2c86d26-990f-4e0c-a86a-0bc77afacd09)
+
+
 COMO SE EJECUTA:
+
+Puerto 8081
+
+
 
 ![image](https://github.com/HuGoVR13/HugoVillacis_Web-API-/assets/99736512/3d9e41b4-c646-4b28-9a89-1f126b152cdc)
 ![image](https://github.com/HuGoVR13/HugoVillacis_Web-API-/assets/99736512/61431c31-d506-4701-8f5c-953939e9acde)
