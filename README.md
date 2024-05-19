@@ -25,7 +25,9 @@ Para crear un nuevo libro, se usa el punto final POST /books, permitiendo agrega
 PRUEBA EN POSTMAN:
 
 
-![image](https://github.com/HuGoVR13/HugoVillacis_Web-API-/assets/99736512/e2c86d26-990f-4e0c-a86a-0bc77afacd09)
+![image](https://github.com/HuGoVR13/HugoVillacis_Web-API-/assets/99736512/dd779dbe-6208-40c7-8b57-4b22b8a19736)
+
+
 
 
 COMO SE EJECUTA:
